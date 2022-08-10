@@ -1,6 +1,6 @@
 <template>
-    <div>
-
+    <div id="gallery">
+<img src="" alt="">
     </div>
 </template>
 

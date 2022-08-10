@@ -12,6 +12,7 @@ import ProductInfo from '@/components/ProductInfo.vue'
 import PageFooter from '@/components/PageFooter.vue'
 
 export default {
+  name: 'App',
   components:{
     ProductHero,
     ProductInfo,
